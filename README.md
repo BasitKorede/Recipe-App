@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Run ```rails s``` to run the app
 
-👤 **BASIT KOREDE*
+👤 **BASIT KOREDE**
 
 - GitHub: [BasitKorede](https://github.com/BasitKorede)
 - Twitter: [Basit_Korede2](https://twitter.com/basit_korede2)
@@ -58,6 +58,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
+- Stack overflow
 
 ## 📝 License
 
